@@ -8,4 +8,7 @@ public class Demo {
         System.out.println("nihaojdhsdf5");
 
     }
+    public void test(){
+        System.out.println("nihao");
+    }
 }
